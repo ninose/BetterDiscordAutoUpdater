@@ -1,2 +1,3 @@
 # BetterDiscorAutodUpdater
 Discordのアップデートが多すぎるのでBetterDiscordで自動アップデートできるようにしました。
+main.py実行したらベータ版含めすべてアップデートしてくれます。
