@@ -1,2 +1,4 @@
 # BetterDiscorAutodUpdater
 Discordのアップデートが多すぎるのでBetterDiscordで自動アップデートできるようにしました。
+
+main.pyを実行したらPTB, Canary含め自動でアップデートとBetterDiscordのplugin適用を行ってくれます。
