@@ -1,0 +1,40 @@
+{
+	"all": {
+		"connections": {
+			"amazon-music": true,
+			"battlenet": true,
+			"bungie": true,
+			"crunchyroll": true,
+			"domain": true,
+			"ebay": true,
+			"epicgames": true,
+			"facebook": true,
+			"github": true,
+			"instagram": true,
+			"leagueoflegends": true,
+			"paypal": true,
+			"playstation": true,
+			"playstation-stg": true,
+			"reddit": true,
+			"riotgames": true,
+			"roblox": true,
+			"samsung": true,
+			"skype": true,
+			"spotify": true,
+			"steam": true,
+			"tiktok": true,
+			"twitch": true,
+			"twitter_legacy": true,
+			"twitter": true,
+			"xbox": true,
+			"youtube": true
+		},
+		"general": {
+			"useColoredIcons": true,
+			"useColoredTooltips": true,
+			"showDetails": true,
+			"showVerifiedBadge": true,
+			"openWebpage": true
+		}
+	}
+}

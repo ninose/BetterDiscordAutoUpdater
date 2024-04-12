@@ -1,0 +1,26 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.6.4",
+			"PluginRepo": "2.5.5",
+			"ShowConnections": "1.1.9",
+			"SplitLargeMessages": "1.8.2",
+			"SpotifyControls": "1.4.0",
+			"ThemeRepo": "2.5.2",
+			"Translator": "2.6.2"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "3c880bac13e9ec3a7091e0d4421921304bfd1f63",
+			"0BDFDB.raw.css": "a0d78e91c26de487f794582adc781e60d32b2445"
+		}
+	}
+}
