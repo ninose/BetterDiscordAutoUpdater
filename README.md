@@ -1,0 +1,2 @@
+# BetterDiscorAutodUpdater
+Discordのアップデートが多すぎるのでBetterDiscordで自動アップデートできるようにしました。
