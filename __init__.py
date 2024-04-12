@@ -1,0 +1,1 @@
+from .BetterDiscordAPI import BetterDiscorAutoUpdater
